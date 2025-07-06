@@ -18,9 +18,6 @@
 ## 🎯 Project Goal
 This project aims to simulate a real-world file storage system using **DSA principles**, helping reinforce core logic skills while designing scalable, structured applications.
 
-## 📸 Demo
-📹 *[Include a short demo video or screenshots here]*
-
 ## 📚 How to Run
 1. Clone this repository
 2. Open in any C++ IDE or compiler
